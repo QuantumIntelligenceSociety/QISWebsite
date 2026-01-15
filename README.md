@@ -1,5 +1,6 @@
 # astrolinkt
 
+- Edit for github pages deployment
 Link in Bio Template using Astro, React & TailwindCSS
 
 ## Tech Stack
