@@ -4,11 +4,11 @@ const DevelopedBy = () => {
       <div>
         <span>Contact us: </span>
         <a
-          href="mailto:ntuquantum@gmail.com"
+          href="mailto:info@sqai.org"
           className="inline-block transition duration-300 hover:-translate-y-px outline-none hover:text-primary-10 focus-visible:text-primary-10"
           aria-label="Email"
         >
-          ntuquantum@gmail.com
+          info@sqai.org
         </a>
       </div>
       <span>
@@ -19,7 +19,7 @@ const DevelopedBy = () => {
           target="_blank"
           aria-label="Developer"
         >
-          NTU Quantum Club
+          量子智慧學會 Quantum Intelligence Society (QIS)
         </a>
       </span>
     </div>
