@@ -1,17 +1,17 @@
 import { IconButton } from "./ui";
-import { cn } from "./ui/utils.ts";
+import { cn } from "./ui/utils";
 import { Lucide } from "./icons";
 
 const projects = [
   {
     title: "QIS Website",
-    description: "Website for our academic society",
+    description: "Website repository for our academic society",
     icon: Lucide.IconGlobe,
     url: "https://github.com/QuantumIntelligenceSociety/QISWebsite",
   },
   {
     title: "SQAI Website",
-    description: "Website for SQAI",
+    description: "Website repository for the International Summit on Quantum Artificial Intelligence",
     icon: Lucide.IconGlobe,
     url: "https://github.com/QuantumIntelligenceSociety/QuantumIntelligenceSociety.github.io",
   },
