@@ -4,34 +4,29 @@ import { Simple } from "./icons";
 // NTU Quantum Club social links
 const socials = [
   {
-    href: "mailto:ntuquantum@gmail.com",
+    href: "mailto:info@sqai.org",
     name: "Email",
     icon: Simple.IconEmail,
   },
   {
-    href: "https://www.linkedin.com/company/ntuqc",
+    href: "https://www.linkedin.com/company/quantumintelligencesociety/",
     name: "LinkedIn",
     icon: Simple.IconLinkedIn,
   },
   {
-    href: "https://github.com/organizations/NTUQC",
+    href: "https://github.com/QuantumIntelligenceSociety",
     name: "GitHub",
     icon: Simple.IconGitHub,
   },
   {
-    href: "https://www.facebook.com/NTUQC",
+    href: "https://www.facebook.com/QuantumIntelligenceSociety",
     name: "Facebook",
     icon: Simple.IconFacebook,
   },
   {
-    href: "https://www.instagram.com/ntuquantum",
+    href: "instagram.com/quantumintelligencesociety",
     name: "Instagram",
     icon: Simple.IconInstagram,
-  },
-  {
-    href: "https://youtube.com/@NTUQC",
-    name: "YouTube",
-    icon: Simple.IconYoutube,
   },
 ];
 
