@@ -4,10 +4,16 @@ import { Lucide } from "./icons";
 
 const projects = [
   {
-    title: "NTUQC Website",
-    description: "Website for our club",
+    title: "QIS Website",
+    description: "Website for our academic society",
     icon: Lucide.IconGlobe,
-    url: "https://github.com/austin-hua/NTUQC-Website",
+    url: "https://github.com/QuantumIntelligenceSociety/QISWebsite",
+  },
+  {
+    title: "SQAI Website",
+    description: "Website for SQAI",
+    icon: Lucide.IconGlobe,
+    url: "https://github.com/QuantumIntelligenceSociety/QuantumIntelligenceSociety.github.io",
   },
 ];
 
