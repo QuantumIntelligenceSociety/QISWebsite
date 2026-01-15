@@ -1,4 +1,4 @@
-import { cn } from "./ui/utils.ts";
+import { cn } from "./ui/utils";
 import { Simple } from "./icons";
 
 // NTU Quantum Club social links
@@ -24,7 +24,7 @@ const socials = [
     icon: Simple.IconFacebook,
   },
   {
-    href: "instagram.com/quantumintelligencesociety",
+    href: "https://www.instagram.com/quantumintelligencesociety",
     name: "Instagram",
     icon: Simple.IconInstagram,
   },
